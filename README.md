@@ -1,8 +1,8 @@
-## Computer_Network
+# Computer_Network
 All programs related to computer networks which includes finding IP addresses to computing network hosts are all written in python language.
 
 
-# CN Questions
+## CN Questions
 1. **Various Transmission Media:** - **Guided Media:** - **Twisted Pair Cables:** Consists of pairs of wires twisted together to reduce electromagnetic 
 interference. Commonly used in local area networks (LANs), especially with Ethernet cables (e.g., 
 Cat5e, Cat6). - **Coaxial Cables:** Composed of a central conductor, insulating layer, metallic shield, and outer 
